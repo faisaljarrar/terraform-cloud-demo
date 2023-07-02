@@ -17,7 +17,7 @@ module "asg" {
   launch_template_description = "Launch template example"
   update_default_version      = true
 
-  image_id          = "ami-ebd02392"
+  image_id          = "aws ec2 describe-images"
   instance_type     = "t3.micro"
   ebs_optimized     = true
   enable_monitoring = true
