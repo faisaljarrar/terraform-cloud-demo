@@ -1,4 +1,4 @@
 variable region{
-region = var.region
+type = string
 
 }
